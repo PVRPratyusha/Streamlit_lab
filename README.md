@@ -16,6 +16,9 @@ Streamlit_Lab/
     ├── data_generator.py
     └── model.py
 ```
+## Live Demo
+
+ [Click here to view the movie recommendation app](https://applab-f5tdgdmrvexkq4gttyt9vj.streamlit.app)
 
 ## Features
 - Browse top rated movies
